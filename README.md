@@ -69,4 +69,4 @@ This is a Spring Boot-based RESTful API for managing employees in an organizatio
 [Link to Video Demo](https://drive.google.com/file/d/1lQq1hYbp_VJoGDh81jAvbUtwr3LwwRaJ/view?usp=sharing)
 
 ## Contributors
-- [Anmol James Pilley]
+- Anmol James Pilley
