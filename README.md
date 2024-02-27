@@ -61,7 +61,7 @@ This is a Spring Boot-based RESTful API for managing employees in an organizatio
 2. Make sure you have JDK, Maven, and Postman installed on your system.
 3. Open the project in your favorite IDE.
 4. Replace user and pass in application.properties (can also switch profile to test mode)
-5. Initatial DataLoader is provided to load sample employees, roles and users, you can clear out DataLoader to start fresh.
+5. Initial DataLoader is provided to load sample employees, roles and users, you can clear out DataLoader to start fresh.
 6. Run the application.
 7. Use Postman or any other REST client to interact with the API.
 
